@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arctic-odyssey-341405",
+  "private_key_id": "af13528229d025c8da8dcbddde793fc8178708e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC83f65BsqjMPGD\n/g1iJ4uO9qkrHj2zvXyqp55QcwzoraQZdXypsdy5SVtyOTmoQL48hGBE8AFGbGM7\nGy6X94iVSqn3iK1PiQO2ClcJGNwCHrkcLLwN4tF6BagXPmJkcO1BFDIB3ZC6sxwp\n/39bvgrNadWxMHoiWkskZX0adLxuaAxMzgxjlYCwxCAPeBtT+Tc8HSEspsH/1vlx\nlniSxxDhR33tkiBQ9Bb5tfO+btXzJduKw6XtaE65zrQva7d44xUAtiRgwbCH8Qpf\nn+Q9lfJucX5IzMIlYTCaFDA4l+irFx9PnLH3chrim0+nEVWXb4XWeQ+BScLpwXY/\nYTyIMNetAgMBAAECggEAByA2bMi4JdwXi1avLpWLYG4nXScbm4fPXP5MrNW1Fk+m\n3LG1bbmg4voaPH8IO97leTxissx+Cn2AaPR87OLmq6tQ1QllG0Ec0Lt8eS1k76I1\nHb5aV15yxNsocmgPfPaockd5c4nmh1ob+pcB48uRy2+YzmyjzwlVGHRzzzxkTPiz\nS7XEUjj2vSaF5YoEsH2NnYyU4fCpVQPHOVX+rYsX2t50/LhACcSypsCdcxfXpZRm\nem3wX5B4Tw4m0po3gLKwouPxgUaduZfR2HWRyrO4p2v0ONPt/GrrY91A8j/Bo+5T\nQR7xyZmk8OM3Hqi7wMHXFaOdjsgbS6TALTID/yx4AQKBgQD4mNmE8UY4BoiHbwzX\nn8PnkscBG5aWEQG5E7wPtypA/Cpor7iaLriRI/64Z+XsmLzjNdgHiwy9onWtw4uA\nZzAbeQqgziKD0kEBfBPu0UgpPxfz3KxkR4JzJGj3kq/7j81UgzFd6sgjJ1Lbxgs9\nc5SzuMYHBA5EFKYX9aIVdiWgrQKBgQDCfc0vCAWbjDdHCXps7Q6Cn4PXeKRvic8V\ndUNjuqThf9O6bQBN8s7FUoNgOcHYtbhoVh6cgMcdde2j/OuGEqU9SIZFQiFiHEzo\nw9uDpdlYN4AXa8QAPOM/EcwhKc1LoQ4apPzM2XCfvk3EO5hOyeSjX5x6MfcEsMwD\nL3+q6oPzAQKBgHzar6ywTPcIePukT4vgJtEgi6hHxdq60eW1PqeZ87PNsjL/xjRR\nsMrcjCrrq7Onhn6K5WPsd0qq1HWgF2k26hdyNF9NCFKyf4mSWqSAIcDtekc1FrQK\noj7YE4v79TzgHV0LwviLWVcmgdv1XGHRseaNr4+Ifu28fSrdaDllLELFAoGAH5c5\nfbsq1gIndGVoukqjAbqROq2A4BEdTtn2MTu+zlXp+Sz9UKvwxAJMDpQzFVUm9+ON\nI1STgwiFqg5J30QmDNc74AIG1B3OrDwr6q1EqVySdLtvYa6CJttoMbbNfsxRMyi7\nWzayYXASx536dkm61oKQMxTsj5l7+cR8UzG2bwECgYBJIidQEUArPk8dZszqcuMm\nNmxwjFHmx9L9S4ZumVA6YjLXwbgdTh8S+T5khN0yWe+BjNljAByi9luI5ousTn1O\nXOoxCT8qPr/wrv0rehZBKb/Whp62cqr/Fkx2jCIYWNJixob+rAD9sYVKOmr31KXs\nE7nNvQeMU8dIUm3cz+j3+g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@arctic-odyssey-341405.iam.gserviceaccount.com",
+  "client_id": "111315264545216488621",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40arctic-odyssey-341405.iam.gserviceaccount.com"
+}
